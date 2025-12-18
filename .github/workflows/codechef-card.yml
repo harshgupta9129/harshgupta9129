@@ -1,5 +1,8 @@
 name: Update CodeChef Card
 
+permissions:
+  contents: write   # ✅ REQUIRED to push changes
+
 on:
   schedule:
     # Runs daily at 12:00 AM IST (18:30 UTC)
@@ -30,7 +33,7 @@ jobs:
           tree = ET.parse("codechef/raw.svg")
           root = tree.getroot()
 
-          # Tight viewBox to remove top & bottom padding
+          # Handle SVG namespace safely
           root.set("viewBox", "0 40 900 220")
           root.set("height", "220")
 
@@ -42,5 +45,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add codechef/codechef-auto.svg
-          git commit -m "Auto-update CodeChef card" || echo "No changes to commit"
+          git commit -m "Auto-update CodeChef card" || echo "No changes"
           git push
