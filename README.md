@@ -9,67 +9,13 @@
 </p>
 
 ---
-## 🏆 Competitive Programming Dashboard
 
-<table align="center">
-<tr>
+## 💡 About Me
+- 🔥 Deep interest in **Competitive Programming** and **DSA**
+- 🧠 Active on **Codeforces** and **CodeChef**
+- 🛠️ Building projects in **C++**, **React**, and **AI-based systems**
+- 🌱 Always learning, always building
 
-<!-- Codeforces -->
-<td align="center" width="33%">
-
-### 🔵 Codeforces
-<a href="https://codeforces.com/profile/harshgupta9129">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=harshgupta9129&theme=dark" />
-</a>
-
-</td>
-
-<!-- LeetCode -->
-<td align="center" width="33%">
-
-### 🟠 LeetCode
-<a href="https://leetcode.com/u/harshgupta9129/">
-  <img src="https://leetcard.jacoblin.cool/harshgupta9129?theme=dark&font=Fira%20Code&ext=contest" />
-</a>
-
-</td>
-
-<!-- CodeChef -->
-<td align="center" width="33%">
-
-### 🟤 CodeChef
-<a href="https://www.codechef.com/users/harshgupta9129">
-  <img src="https://img.shields.io/badge/CodeChef-harshgupta9129-brown?style=for-the-badge&logo=codechef" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Rating-1100+-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📊 Consistency Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgupta9129&theme=github-dark&hide_border=true" />
-</p>
-
-> 💡 *Consistency beats talent when talent stops practicing.*
-
-
-## 📊 Consistency & Activity Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgupta9129&theme=github-dark&hide_border=true" />
-</p>
-
-> 💡 *Consistency beats talent when talent stops practicing.*
 ---
 
 ## 🛠️ Tech Stack
@@ -85,6 +31,65 @@
 </p>
 
 ---
+
+## 🏆 Competitive Programming Dashboard
+
+<!-- Row 1: Codeforces + LeetCode -->
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
+
+### 🔵 Codeforces
+<a href="https://codeforces.com/profile/harshgupta9129">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=harshgupta9129&theme=dark" />
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🟠 LeetCode
+<a href="https://leetcode.com/u/harshgupta9129/">
+  <img src="https://leetcard.jacoblin.cool/harshgupta9129?theme=dark&font=Fira%20Code&ext=contest" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- Row 2: CodeChef (centered) -->
+<table align="center">
+<tr>
+<td align="center">
+
+### 🟤 CodeChef
+<a href="https://www.codechef.com/users/harshgupta9129">
+  <img src="https://img.shields.io/badge/CodeChef-harshgupta9129-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Rating-1100+-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+
+## 📊 Consistency & Activity Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgupta9129&theme=github-dark&hide_border=true" />
+</p>
+
+> 💡 *Consistency beats talent when talent stops practicing.*
+---
+
 
 ## 📊 GitHub Activity (OFFICIAL)
 
@@ -113,14 +118,22 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshgupta9129/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/harshgupta9129/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:aharshgupta2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-aharshgupta2025@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/harshgupta_9129/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@harshgupta__9129-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
+<p align="center">
+  <i>Let’s connect, collaborate, and build something impactful 🚀</i>
+</p>
+
 
 ⭐ If you like my work, consider starring my repositories!
