@@ -55,11 +55,8 @@
 </a>
 
 </td>
-
 </tr>
 </table>
-
-<br/>
 
 <!-- Row 2: CodeChef (centered) -->
 <table align="center">
@@ -67,15 +64,7 @@
 <td align="center">
 
 ### 🟤 CodeChef
-<a href="https://www.codechef.com/users/harshgupta9129">
-  <img src="https://img.shields.io/badge/CodeChef-harshgupta9129-brown?style=for-the-badge&logo=codechef" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Rating-1100+-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-
+<img src="https://codechef-badge.vercel.app/api/codechef?user=harshgupta9129" />
 </td>
 </tr>
 </table>
@@ -89,7 +78,6 @@
 
 > 💡 *Consistency beats talent when talent stops practicing.*
 ---
-
 
 ## 📊 GitHub Activity (OFFICIAL)
 
