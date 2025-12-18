@@ -121,7 +121,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshgupta9129&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=harshgupta9129&theme=tokyonight" />
 </p>
 
 ---
