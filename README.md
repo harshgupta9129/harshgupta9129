@@ -143,9 +143,13 @@
 </p>
 
 <p align="center">
-  <sub>Open to collaboration, learning, and meaningful conversations</sub>
+  <code>aharshgupta2025@gmail.com</code>
 </p>
 
+<p align="center">
+  Open to collaboration, learning, and meaningful conversations 🚀
+</p>
 
+---
 
 ⭐ If you like my work, consider starring my repositories!
