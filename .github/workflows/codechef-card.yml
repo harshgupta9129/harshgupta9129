@@ -34,8 +34,8 @@ jobs:
           root = tree.getroot()
 
           # Handle SVG namespace safely
-          root.set("viewBox", "0 40 900 220")
-          root.set("height", "220")
+          root.set("viewBox", "0 30 900 280")
+          root.set("height", "280")
 
           tree.write("codechef/codechef-auto.svg")
           EOF
