@@ -1,100 +1,126 @@
-# 👋 Hi, I'm Harsh Gupta
+<h1 align="center">👋 Hi, I'm Harsh Gupta</h1>
 
-🚀 **Competitive Programmer | Software Developer | Tech Explorer**
-🎓 B.Tech (ECE) Student | Passionate about Problem Solving, Systems, and AI
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Competitive+Programmer;Codeforces+%7C+CodeChef+%7C+LeetCode;C%2B%2B+%7C+React+Developer;Problem+Solver+%7C+Tech+Explorer" />
+</p>
+
+<p align="center">
+🎓 B.Tech (ECE) Student | Passionate about DSA, Systems & AI
+</p>
+
+---
+## 🏆 Competitive Programming Dashboard
+
+<table align="center">
+<tr>
+
+<!-- Codeforces -->
+<td align="center" width="33%">
+
+### 🔵 Codeforces
+<a href="https://codeforces.com/profile/harshgupta9129">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=harshgupta9129&theme=dark" />
+</a>
+
+</td>
+
+<!-- LeetCode -->
+<td align="center" width="33%">
+
+### 🟠 LeetCode
+<a href="https://leetcode.com/u/harshgupta9129/">
+  <img src="https://leetcard.jacoblin.cool/harshgupta9129?theme=dark&font=Fira%20Code&ext=contest" />
+</a>
+
+</td>
+
+<!-- CodeChef -->
+<td align="center" width="33%">
+
+### 🟤 CodeChef
+<a href="https://www.codechef.com/users/harshgupta9129">
+  <img src="https://img.shields.io/badge/CodeChef-harshgupta9129-brown?style=for-the-badge&logo=codechef" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Rating-1100+-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💡 About Me
+## 📊 Consistency Heatmap
 
-* 🔥 Strong interest in **Competitive Programming**, **DSA**, and **Web Development**
-* 🧠 Love solving complex problems on **Codeforces** and **CodeChef**
-* 🛠️ Building projects in **C++**, **React**, and **AI-based systems**
-* 🌱 Always learning, always building
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgupta9129&theme=github-dark&hide_border=true" />
+</p>
 
----
+> 💡 *Consistency beats talent when talent stops practicing.*
 
-## 🏆 Competitive Programming
 
-<div align="center">
+## 📊 Consistency & Activity Heatmap
 
-### 🚀 Live Competitive Programming Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshgupta9129&theme=github-dark&hide_border=true" />
+</p>
 
-![Codeforces Badge](https://badges.joonhyun.dev/codeforces/harshgupta9129.svg)
-
-![CodeChef Badge](https://cp-logo.vercel.app/codechef/harshgupta9129)
-
-</div>
-
-* 🔗 **Codeforces**: [harshgupta9129](https://codeforces.com/profile/harshgupta9129)
-* 🔗 **CodeChef**: [harshgupta9129](https://www.codechef.com/users/harshgupta9129)
-
-<div align="center">
-
-### 📊 Problem Solving Momentum
-
-![CF Stats](https://cf-stats.vercel.app/api?username=harshgupta9129)
-
-</div>
-
-> "Consistency beats talent when talent stops practicing."
-
+> 💡 *Consistency beats talent when talent stops practicing.*
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-`C++` `Python` `JavaScript`
-
-**Frontend**
-`React` `Bootstrap` `HTML` `CSS`
-
-**Backend & Tools**
-`Node.js` `Git` `Github` `Linux (Ubuntu)`
-
-**Core Skills**
-`Data Structures & Algorithms`
-`Problem Solving`
-`Automation & Scripting`
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu" />
+</p>
 
 ---
 
-## 📈 GitHub Activity & Animations
+## 📊 GitHub Activity (OFFICIAL)
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshgupta9129&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshgupta9129\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshgupta9129&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harshgupta9129\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta9129&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshgupta9129\&layout=compact\&theme=tokyonight)
+---
 
-</div>
+## 🐍 Contribution Snake (Guaranteed)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshgupta9129/harshgupta9129/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 **LinkedIn**: [harshgupta9129](https://www.linkedin.com/in/harshgupta9129/)
-* 💻 **GitHub**: [harshgupta9129](https://github.com/harshgupta9129)
-* 📧 **Email**: [aharshgupta2025@gmail.com](mailto:aharshgupta2025@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshgupta9129/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:aharshgupta2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![Snake animation](https://github.com/harshgupta9129/harshgupta9129/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## ⚡ Fun Fact
-
-> I believe **one well-written algorithm** can outperform a thousand lines of messy code.
-
----
-
-⭐ *If you like my work, consider starring my repositories — it motivates me to build more!*
+⭐ If you like my work, consider starring my repositories!
