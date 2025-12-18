@@ -1,0 +1,46 @@
+name: Update CodeChef Card
+
+on:
+  schedule:
+    # Runs daily at 12:00 AM IST (18:30 UTC)
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create codechef directory
+        run: mkdir -p codechef
+
+      - name: Download live CodeChef SVG
+        run: |
+          curl -L "https://codechef-badge.vercel.app/api/codechef?user=harshgupta9129" \
+          -o codechef/raw.svg
+
+      - name: Crop SVG (remove extra vertical padding)
+        run: |
+          python - << 'EOF'
+          from xml.etree import ElementTree as ET
+
+          tree = ET.parse("codechef/raw.svg")
+          root = tree.getroot()
+
+          # Tight viewBox to remove top & bottom padding
+          root.set("viewBox", "0 40 900 220")
+          root.set("height", "220")
+
+          tree.write("codechef/codechef-auto.svg")
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add codechef/codechef-auto.svg
+          git commit -m "Auto-update CodeChef card" || echo "No changes to commit"
+          git push
