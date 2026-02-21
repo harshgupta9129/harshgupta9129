@@ -116,11 +116,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshgupta9129&show_icons=true&theme=tokyonight" />
+  <img alt="Harsh's GitHub Streak" src="https://streak-stats.demolab.com?user=harshgupta9129&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=harshgupta9129&theme=tokyonight" />
+  <img alt="Harsh's Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshgupta9129&theme=tokyonight" />
 </p>
 
 ---
