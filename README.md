@@ -1,13 +1,12 @@
-<h1 align="center">👋 Hi, I'm Harsh Gupta</h1>
+<div align="center">
+  <img width="100%" alt="Harsh Gupta Header" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020510,25:050d1a,50:071224,75:050d1a,100:020510&fontColor=4d9fff&text=HARSH%20GUPTA&fontSize=75&fontAlignY=35&animation=fadeIn&desc=🎓%20B.Tech%20(ECE)%20Student%20%E2%80%A2%20💻%20Web%20Developer%20%E2%80%A2%20🧠%20DSA%20%26%20Competitive%20Programming&descSize=20&descAlignY=60&descColor=5c7a9e&stroke=1a3a5c&strokeWidth=1" />
+  
+  <h1>👋 Hi, I'm Harsh Gupta</h1>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Competitive+Programmer;Codeforces+%7C+CodeChef+%7C+LeetCode;C%2B%2B+%7C+React+Developer;Problem+Solver+%7C+Tech+Explorer" />
 </p>
-
-<h4 align="center">
-🎓 B.Tech (ECE) Student • 💻 Web Developer • 🧠 DSA & Competitive Programming
-</h4>
-
 
 ---
 
@@ -153,3 +152,5 @@
 ---
 
 ⭐ If you like my work, consider starring my repositories!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020510,40:050d1a,100:071224&height=120&section=footer&text=Keep%20solving.%20Keep%20shipping.%20Keep%20competing.&fontSize=16&fontColor=4d9fff&animation=fadeIn&fontAlignY=68"/>
