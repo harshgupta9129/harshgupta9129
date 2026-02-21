@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Harsh Gupta Header" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020510,25:050d1a,50:071224,75:050d1a,100:020510&fontColor=4d9fff&text=HARSH%20GUPTA&fontSize=75&fontAlignY=35&animation=fadeIn&desc=🎓%20B.Tech%20(ECE)%20Student%20%E2%80%A2%20💻%20Web%20Developer%20%E2%80%A2%20🧠%20DSA%20%26%20Competitive%20Programming&descSize=20&descAlignY=60&descColor=5c7a9e&stroke=1a3a5c&strokeWidth=1" />
+  <img width="100%" alt="Harsh Gupta Header" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020510,25:050d1a,50:071224,75:050d1a,100:020510&fontColor=4d9fff&text=HARSH%20GUPTA&fontSize=75&fontAlignY=35&animation=fadeIn&desc=🎓%20B.Tech%20(ECE)%20Student%20%E2%80%A2%20💻%20Web%20Developer%20%E2%80%A2%20🧠%20DSA%20%26amp;%20Competitive%20Programming&descSize=20&descAlignY=60&descColor=5c7a9e&stroke=1a3a5c&strokeWidth=1" />
   
   <h1>👋 Hi, I'm Harsh Gupta</h1>
 </div>
